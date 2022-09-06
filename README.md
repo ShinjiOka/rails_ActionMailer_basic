@@ -10,3 +10,22 @@ format.htmlについて
 
 status
 ・https://railsguides.jp/layouts_and_rendering.html
+
+letter_opener_web
+・https://github.com/fgrehm/letter_opener_web
+・https://techtechmedia.com/letter_opener_web/
+
+ActionMailer
+・https://techtechmedia.com/deliver-email-using-action-mailer/
+
+ラップ
+・https://e-words.jp/w/ラップ.html#:~:text=プログラミングの分野で、ある,にこのように呼ばれる。
+
+ActionMailer::MessageDeliveryクラスはActionMailerで使われる。ActionMailer::MessageDeliveryクラスはMail::Messageをラップしている。(Mail::Messageの内容を含んでいる)
+・https://api.rubyonrails.org/v7.0/classes/ActionMailer/MessageDelivery.html
+
+エンコード
+・https://wa3.i-3-i.info/word135.html
+
+添付ファイルをつける方法
+・https://www.sejuku.net/blog/48739
